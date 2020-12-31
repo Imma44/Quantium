@@ -7,3 +7,16 @@ Data analysis and customer segments – in your analysis make sure you define th
 
 Deep dive into customer segments – define your recommendation from your insights, determine which segments we should be targeting, if packet sizes are relative and form an overall conclusion based on your analysis.
 
+# Quantium task 2
+
+
+*   Consider the monthly sales experience of each store by looking at:
+1. total sales revenue
+2. total number of customers
+3. average number of transactions per customer
+   
+* Create a measure to compare different control stores to each of the trial stores.Consider using Pearson correlations or a metric such as a magnitude distance e.g. 1- (Observed distance – minimum distance)/(Maximum distance – minimum distance) as a measure.
+
+* Once you have selected your control stores, compare each trial and control pair during the trial period.
+* Test if total sales are significantly different in the trial period and if so, check if the driver of change is more purchasing customers or more purchases per customers etc.
+"""
